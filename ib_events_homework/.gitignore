@@ -1,0 +1,13 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated analysis outputs are kept in the repository as an example result.
+
+# Local editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
